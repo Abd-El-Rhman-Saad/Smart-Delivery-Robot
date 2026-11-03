@@ -1,0 +1,68 @@
+Removed Member From Class: ClassName=Sheet1 Member=D5
+Removed Member From Class: ClassName=Sheet1 Member=D6
+Change Component Designator: OldDesignator=*1 NewDesignator=MPU-6050
+Change Component Designator: OldDesignator=*2 NewDesignator=ESP32
+Change Component Designator: OldDesignator=1 NewDesignator=16V
+Change Component Designator: OldDesignator=2 NewDesignator=16V
+Change Component Designator: OldDesignator=D1 NewDesignator=3.3V Power LED
+Change Component Designator: OldDesignator=D2 NewDesignator=RGB LED
+Change Component Designator: OldDesignator=D4 NewDesignator=D1
+Change Component Designator: OldDesignator=D5 NewDesignator=D2
+Change Component Designator: OldDesignator=D6 NewDesignator=D3
+Change Component Designator: OldDesignator=D7 NewDesignator=D4
+Change Component Designator: OldDesignator=J1 NewDesignator=Ext. Power
+Change Component Designator: OldDesignator=J2 NewDesignator=Buzzer
+Change Component Designator: OldDesignator=J3 NewDesignator=12V
+Change Component Designator: OldDesignator=J4 NewDesignator=Stepper Pins
+Change Component Designator: OldDesignator=J7 NewDesignator=12V
+Change Component Designator: OldDesignator=J8 NewDesignator=5V
+Change Component Designator: OldDesignator=J9 NewDesignator=3.3V
+Change Component Designator: OldDesignator=J10 NewDesignator=GND
+Change Component Designator: OldDesignator=S2 NewDesignator=Stepper Power Switch
+Change Component Designator: OldDesignator=SW1 NewDesignator=Push button 1
+Change Component Designator: OldDesignator=SW2 NewDesignator=Push button 2
+Change Component Designator: OldDesignator=SW3 NewDesignator=Push button 3
+Change Component Designator: OldDesignator=U1 NewDesignator=AMS1117-5.0
+Change Component Designator: OldDesignator=U2 NewDesignator=AMS1117-3.3
+Change Net Name : Old Net Name=Net1_1 New Net Name=Net16V_1
+Change Net Name : Old Net Name=Net1_2 New Net Name=Net16V_1
+Change Net Name : Old Net Name=Net*1_03 New Net Name=NetESP32_14
+Change Net Name : Old Net Name=Net*1_04 New Net Name=NetESP32_11
+Change Net Name : Old Net Name=Net*2_3 New Net Name=NetESP32_3
+Change Net Name : Old Net Name=Net*2_4 New Net Name=NetESP32_4
+Change Net Name : Old Net Name=Net*2_5 New Net Name=NetESP32_5
+Change Net Name : Old Net Name=Net*2_6 New Net Name=NetESP32_6
+Change Net Name : Old Net Name=Net*2_7 New Net Name=NetESP32_7
+Change Net Name : Old Net Name=Net*2_8 New Net Name=NetESP32_8
+Change Net Name : Old Net Name=Net*2_9 New Net Name=NetESP32_9
+Change Net Name : Old Net Name=Net*2_10 New Net Name=NetESP32_10
+Change Net Name : Old Net Name=Net*2_12 New Net Name=NetESP32_12
+Change Net Name : Old Net Name=Net*2_13 New Net Name=NetESP32_13
+Change Net Name : Old Net Name=Net*2_15 New Net Name=NetBuzzer_POS
+Change Net Name : Old Net Name=Net*2_16 New Net Name=NetESP32_16
+Change Net Name : Old Net Name=Net*2_17 New Net Name=NetESP32_17
+Change Net Name : Old Net Name=Net*2_18 New Net Name=NetESP32_18
+Change Net Name : Old Net Name=Net*2_19 New Net Name=NetESP32_19
+Change Net Name : Old Net Name=Net*2_20 New Net Name=NetESP32_20
+Change Net Name : Old Net Name=Net*2_21 New Net Name=NetESP32_21
+Change Net Name : Old Net Name=Net*2_22 New Net Name=NetESP32_22
+Change Net Name : Old Net Name=Net*2_23 New Net Name=NetESP32_23
+Change Net Name : Old Net Name=Net*2_24 New Net Name=NetESP32_24
+Change Net Name : Old Net Name=Net*2_25 New Net Name=NetESP32_25
+Change Net Name : Old Net Name=Net*2_26 New Net Name=NetESP32_26
+Change Net Name : Old Net Name=Net*2_27 New Net Name=NetESP32_27
+Change Net Name : Old Net Name=Net*2_28 New Net Name=NetESP32_28
+Change Net Name : Old Net Name=Net*2_30 New Net Name=NetESP32_30
+Change Net Name : Old Net Name=NetC3_P New Net Name=NetAMS1117-5.0_3
+Change Net Name : Old Net Name=NetC4_2 New Net Name=Net3.3V Power LED_A
+Change Net Name : Old Net Name=NetD4_C New Net Name=NetD1_C
+Change Net Name : Old Net Name=NetD5_C New Net Name=NetD2_C
+Change Net Name : Old Net Name=NetD6_C New Net Name=NetD3_C
+Change Net Name : Old Net Name=NetD7_C New Net Name=NetD4_C
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetQ1_16
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetQ1_15
+Change Net Name : Old Net Name=NetJ4_4 New Net Name=NetQ1_14
+Change Net Name : Old Net Name=NetJ4_5 New Net Name=NetQ1_13
+Added Member To Class: ClassName=Sheet1 Member=Component D3 RL207
+Added Member To Class: ClassName=Sheet1 Member=Component RGB LED common cathode
+Added Room: Name=Sheet1

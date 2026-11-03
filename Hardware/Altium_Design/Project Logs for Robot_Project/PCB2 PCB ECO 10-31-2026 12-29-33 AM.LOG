@@ -1,0 +1,375 @@
+Removed Pin From Net: NetName=GND Pin=AMS1117-3.3 ESP-1
+Removed Pin From Net: NetName=NetAMS1117-3.3 ESP_2 Pin=AMS1117-3.3 ESP-2
+Removed Pin From Net: NetName=GND Pin=AMS1117-3.3 P-1
+Removed Pin From Net: NetName=3.3V Pin=AMS1117-3.3 P-2
+Removed Pin From Net: NetName=+5 Pin=AMS1117-3.3 P-3
+Removed Pin From Net: NetName=GND Pin=AMS1117-5.0-1
+Removed Pin From Net: NetName=+5 Pin=AMS1117-5.0-2
+Removed Pin From Net: NetName=+5 Pin=Slide Switch (5v,3.3v)-2
+Removed Member From Class: ClassName=Sheet1 Member=AMS1117-3.3 ESP
+Removed Member From Class: ClassName=Sheet1 Member=AMS1117-3.3 P
+Removed Member From Class: ClassName=Sheet1 Member=AMS1117-5.0
+Removed Member From Class: ClassName=Sheet1 Member=Slide Switch (5v,3.3v)
+Removed Member From Class: ClassName=Sheet1 Member=Stepper Pins
+Add Component: Footprint Not Found LED 5mm
+Add Component: Footprint Not Found LED 5mm
+Add Component: Footprint Not Found AMPHENOL_52601-S14-4LF
+Add Component: Footprint Not Found AMPHENOL_52601-S14-4LF
+Added Component: Designator=8(691213510002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691213510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=9(691213510002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691213510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=10(691213510002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691213510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=11(691213510002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691213510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=12(691213510002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691213510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found AMPHENOL_52601-S14-4LF
+Add Component: Footprint Not Found Buzzer 5V
+Add Component: Footprint Not Found CAP  33UF 50V RADIAL
+Add Component: Footprint Not Found CAP  33UF 50V RADIAL
+Added Component: Designator=C9(C320C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C320C104M5U5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C320C104M5U5TA/KEMET/view-part/228184/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(C320C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C320C104M5U5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C320C104M5U5TA/KEMET/view-part/228184/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(C320C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C320C104M5U5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C320C104M5U5TA/KEMET/view-part/228184/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(C320C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C320C104M5U5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C320C104M5U5TA/KEMET/view-part/228184/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIOAD1300W80L670D310
+Added Component: Designator=ESP1(ESP32DEVKITV1)
+Add Component: Footprint Not Found SAMTEC_TS-103-T-A-1
+Added Component: Designator=Ext. Power(DC Power Jack Female Socket)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PJ-002A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found AMPHENOL_52601-S14-4LF
+Add Component: Footprint Not Found SAMTEC_TS-115-T-A-1
+Add Component: Footprint Not Found SAMTEC_TS-115-T-A-1
+Add Component: Footprint Not Found SAMTEC_TS-103-T-A-1
+Add Component: Footprint Not Found Pin header female block 8 pin
+Added Component: Designator=MPU-6050(MPU-6050)
+Add Component: Footprint Not Found TE_FSM8JRT
+Add Component: Footprint Not Found TE_FSM8JRT
+Add Component: Footprint Not Found TE_FSM8JRT
+Add Component: Footprint Not Found TO254P1054X470X1955-3
+Add Component: Footprint Not Found TO254P1054X470X1955-3
+Add Component: Footprint Not Found LED RGB 5mm
+Add Component: Footprint Not Found Pin header female block 8 pin
+Add Component: Footprint Not Found Pin header female block 8 pin
+Add Component: Footprint Not Found TO254P1054X470X1955-3
+Add Component: Footprint Not Found TO254P1054X470X1955-3
+Add Component: Footprint Not Found TO254P1054X470X1955-3
+Add Component: Footprint Not Found TO254P1054X470X1955-3
+Add Pin To Net: Unknown Pin: Pin 1-A
+Add Pin To Net: Unknown Pin: Pin 1-C
+Add Pin To Net: Unknown Pin: Pin 2-A
+Add Pin To Net: Unknown Pin: Pin 2-C
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-1
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-2
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-3
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-4
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-5
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-6
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-7
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-8
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-9
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-10
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-11
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-12
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-13
+Add Pin To Net: Unknown Pin: Pin 3.3v pin headers block-14
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-1
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-2
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-3
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-4
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-5
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-6
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-7
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-8
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-9
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-10
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-11
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-12
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-13
+Add Pin To Net: Unknown Pin: Pin 5v pin headers block-14
+Added Pin To Net: NetName=GND Pin=9-1
+Added Pin To Net: NetName=+12 Pin=9-2
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-1
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-2
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-3
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-4
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-5
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-6
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-7
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-8
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-9
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-10
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-11
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-12
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-13
+Add Pin To Net: Unknown Pin: Pin 12v pin headers block-14
+Add Pin To Net: Unknown Pin: Pin Buzzer1-NEG
+Add Pin To Net: Unknown Pin: Pin Buzzer1-POS
+Add Pin To Net: Unknown Pin: Pin C7-N
+Add Pin To Net: Unknown Pin: Pin C8-N
+Add Pin To Net: Unknown Pin: Pin C8-P
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+5 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=3.3V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetAMS1117-3.3 ESP_2 Pin=C12-2
+Add Pin To Net: Unknown Pin: Pin D1-A
+Added Pin To Net: NetName=NetAMS1117-3.3 ESP_2 Pin=ESP1-1
+Added Pin To Net: NetName=GND Pin=ESP1-2
+Added Pin To Net: NetName=NetBuzzer_POS Pin=ESP1-3
+Added Pin To Net: NetName=NetESP32_8 Pin=ESP1-8
+Added Pin To Net: NetName=NetESP32_9 Pin=ESP1-9
+Added Pin To Net: NetName=NetESP32_10 Pin=ESP1-10
+Added Pin To Net: NetName=NetESP32_11 Pin=ESP1-11
+Added Pin To Net: NetName=NetESP32_12 Pin=ESP1-12
+Added Pin To Net: NetName=NetESP32_13 Pin=ESP1-13
+Added Pin To Net: NetName=NetESP32_14 Pin=ESP1-14
+Added Pin To Net: NetName=NetESP32_15 Pin=ESP1-15
+Added Pin To Net: NetName=NetESP32_17 Pin=ESP1-17
+Added Pin To Net: NetName=NetESP32_18 Pin=ESP1-18
+Added Pin To Net: NetName=NetESP32_19 Pin=ESP1-19
+Added Pin To Net: NetName=NetESP32_20 Pin=ESP1-20
+Added Pin To Net: NetName=NetESP32_21 Pin=ESP1-21
+Added Pin To Net: NetName=NetESP32_22 Pin=ESP1-22
+Added Pin To Net: NetName=NetESP32_23 Pin=ESP1-23
+Added Pin To Net: NetName=NetESP32_24 Pin=ESP1-24
+Added Pin To Net: NetName=NetESP32_25 Pin=ESP1-25
+Added Pin To Net: NetName=NetESP32_26 Pin=ESP1-26
+Added Pin To Net: NetName=NetESP32_27 Pin=ESP1-27
+Added Pin To Net: NetName=NetESP32_28 Pin=ESP1-28
+Added Pin To Net: NetName=GND Pin=ESP1-29
+Added Pin To Net: NetName=+5 Pin=ESP1-30
+Added Pin To Net: NetName=+5 Pin=ESP32-30
+Add Pin To Net: Unknown Pin: Pin ESP32-Power-01
+Add Pin To Net: Unknown Pin: Pin ESP32-Power-03
+Added Pin To Net: NetName=+12 Pin=Ext. Power-1
+Added Pin To Net: NetName=GND Pin=Ext. Power-2
+Added Pin To Net: NetName=GND Pin=Ext. Power-3
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-1
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-2
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-3
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-4
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-5
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-6
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-7
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-8
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-9
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-10
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-11
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-12
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-13
+Add Pin To Net: Unknown Pin: Pin GND pin headers block-14
+Add Pin To Net: Unknown Pin: Pin J1-01
+Add Pin To Net: Unknown Pin: Pin J1-02
+Add Pin To Net: Unknown Pin: Pin J1-03
+Add Pin To Net: Unknown Pin: Pin J1-04
+Add Pin To Net: Unknown Pin: Pin J1-05
+Add Pin To Net: Unknown Pin: Pin J1-06
+Add Pin To Net: Unknown Pin: Pin J1-07
+Add Pin To Net: Unknown Pin: Pin J1-08
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin J1-14
+Add Pin To Net: Unknown Pin: Pin J1-15
+Add Pin To Net: Unknown Pin: Pin J2-01
+Add Pin To Net: Unknown Pin: Pin J2-02
+Add Pin To Net: Unknown Pin: Pin J2-03
+Add Pin To Net: Unknown Pin: Pin J2-04
+Add Pin To Net: Unknown Pin: Pin J2-05
+Add Pin To Net: Unknown Pin: Pin J2-06
+Add Pin To Net: Unknown Pin: Pin J2-07
+Add Pin To Net: Unknown Pin: Pin J2-08
+Add Pin To Net: Unknown Pin: Pin J2-09
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin J2-11
+Add Pin To Net: Unknown Pin: Pin J2-12
+Add Pin To Net: Unknown Pin: Pin J2-13
+Add Pin To Net: Unknown Pin: Pin J2-14
+Added Pin To Net: NetName=+5 Pin=J6-01
+Add Pin To Net: Unknown Pin: Pin J?-02
+Add Pin To Net: Unknown Pin: Pin J?-03
+Add Pin To Net: Unknown Pin: Pin Motors-1
+Add Pin To Net: Unknown Pin: Pin Motors-2
+Add Pin To Net: Unknown Pin: Pin Motors-3
+Add Pin To Net: Unknown Pin: Pin Motors-4
+Add Pin To Net: Unknown Pin: Pin Motors-5
+Add Pin To Net: Unknown Pin: Pin Motors-6
+Add Pin To Net: Unknown Pin: Pin Motors-7
+Add Pin To Net: Unknown Pin: Pin Motors-8
+Added Pin To Net: NetName=3.3V Pin=MPU-6050-01
+Added Pin To Net: NetName=GND Pin=MPU-6050-02
+Added Pin To Net: NetName=NetESP32_14 Pin=MPU-6050-03
+Added Pin To Net: NetName=NetESP32_11 Pin=MPU-6050-04
+Add Pin To Net: Unknown Pin: Pin Push button 4-1
+Add Pin To Net: Unknown Pin: Pin Push button 4-2
+Add Pin To Net: Unknown Pin: Pin Push button 5-1
+Add Pin To Net: Unknown Pin: Pin Push button 5-2
+Add Pin To Net: Unknown Pin: Pin Push button 6-1
+Add Pin To Net: Unknown Pin: Pin Push button 6-2
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q?-2
+Add Pin To Net: Unknown Pin: Pin Q?-3
+Add Pin To Net: Unknown Pin: Pin RGB LED1-1
+Add Pin To Net: Unknown Pin: Pin RGB LED1-2
+Add Pin To Net: Unknown Pin: Pin RGB LED1-3
+Add Pin To Net: Unknown Pin: Pin RGB LED1-4
+Add Pin To Net: Unknown Pin: Pin Ultrasonic L1-1
+Add Pin To Net: Unknown Pin: Pin Ultrasonic L1-2
+Add Pin To Net: Unknown Pin: Pin Ultrasonic L1-3
+Add Pin To Net: Unknown Pin: Pin Ultrasonic L1-4
+Add Pin To Net: Unknown Pin: Pin Ultrasonic L1-5
+Add Pin To Net: Unknown Pin: Pin Ultrasonic L1-6
+Add Pin To Net: Unknown Pin: Pin Ultrasonic L1-7
+Add Pin To Net: Unknown Pin: Pin Ultrasonic L1-8
+Add Pin To Net: Unknown Pin: Pin Ultrasonic R1-1
+Add Pin To Net: Unknown Pin: Pin Ultrasonic R1-2
+Add Pin To Net: Unknown Pin: Pin Ultrasonic R1-3
+Add Pin To Net: Unknown Pin: Pin Ultrasonic R1-4
+Add Pin To Net: Unknown Pin: Pin Ultrasonic R1-5
+Add Pin To Net: Unknown Pin: Pin Ultrasonic R1-6
+Add Pin To Net: Unknown Pin: Pin Ultrasonic R1-7
+Add Pin To Net: Unknown Pin: Pin Ultrasonic R1-8
+Add Pin To Net: Unknown Pin: Pin VR1-1
+Add Pin To Net: Unknown Pin: Pin VR1-2
+Add Pin To Net: Unknown Pin: Pin VR1-3
+Add Pin To Net: Unknown Pin: Pin VR2-1
+Add Pin To Net: Unknown Pin: Pin VR2-2
+Add Pin To Net: Unknown Pin: Pin VR2-3
+Add Pin To Net: Unknown Pin: Pin VR?-1
+Add Pin To Net: Unknown Pin: Pin VR?-1
+Add Pin To Net: Unknown Pin: Pin VR?-2
+Add Pin To Net: Unknown Pin: Pin VR?-2
+Add Pin To Net: Unknown Pin: Pin VR?-3
+Change Net Name : Old Net Name=NetAMS1117-3.3 ESP_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetBuzzer_POS New Net Name=NetBuzzer1_POS
+Change Net Name : Old Net Name=NetESP32_8 New Net Name=NetESP1_8
+Change Net Name : Old Net Name=NetESP32_9 New Net Name=NetESP1_9
+Change Net Name : Old Net Name=NetESP32_10 New Net Name=NetESP1_10
+Change Net Name : Old Net Name=NetESP32_11 New Net Name=NetESP1_11
+Change Net Name : Old Net Name=NetESP32_12 New Net Name=NetESP1_12
+Change Net Name : Old Net Name=NetESP32_13 New Net Name=NetESP1_13
+Change Net Name : Old Net Name=NetESP32_14 New Net Name=NetESP1_14
+Change Net Name : Old Net Name=NetESP32_15 New Net Name=NetESP1_15
+Change Net Name : Old Net Name=NetESP32_17 New Net Name=NetESP1_17
+Change Net Name : Old Net Name=NetESP32_18 New Net Name=NetESP1_18
+Change Net Name : Old Net Name=NetESP32_19 New Net Name=NetESP1_19
+Change Net Name : Old Net Name=NetESP32_20 New Net Name=NetESP1_20
+Change Net Name : Old Net Name=NetESP32_21 New Net Name=NetESP1_21
+Change Net Name : Old Net Name=NetESP32_22 New Net Name=NetESP1_22
+Change Net Name : Old Net Name=NetESP32_23 New Net Name=NetESP1_23
+Change Net Name : Old Net Name=NetESP32_24 New Net Name=NetESP1_24
+Change Net Name : Old Net Name=NetESP32_25 New Net Name=NetESP1_25
+Change Net Name : Old Net Name=NetESP32_26 New Net Name=NetESP1_26
+Change Net Name : Old Net Name=NetESP32_27 New Net Name=NetESP1_27
+Change Net Name : Old Net Name=NetESP32_28 New Net Name=NetESP1_28
+Added Pin To Net: NetName=Net8_1 Pin=8-1
+Added Pin To Net: NetName=Net8_1 Pin=10-1
+Added Pin To Net: NetName=Net8_1 Pin=11-1
+Added Pin To Net: NetName=Net8_1 Pin=12-1
+Added Net: Name=Net8_1
+Added Pin To Net: NetName=Net8_2 Pin=8-2
+Added Pin To Net: NetName=Net8_2 Pin=10-2
+Added Pin To Net: NetName=Net8_2 Pin=11-2
+Added Pin To Net: NetName=Net8_2 Pin=12-2
+Added Net: Name=Net8_2
+Added Pin To Net: NetName=NetC3_P Pin=C3-P
+Added Pin To Net: NetName=NetC3_P Pin=D3-C
+Added Net: Name=NetC3_P
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=ESP 3.3V-A
+Added Net: Name=NetC6_2
+Added Net: Name=NetC7_P
+Added Pin To Net: NetName=NetESP1_4 Pin=ESP1-4
+Added Pin To Net: NetName=NetESP1_4 Pin=ESP32-4
+Added Pin To Net: NetName=NetESP1_4 Pin=J5-12
+Added Net: Name=NetESP1_4
+Added Pin To Net: NetName=NetESP1_5 Pin=ESP1-5
+Added Pin To Net: NetName=NetESP1_5 Pin=ESP32-5
+Added Pin To Net: NetName=NetESP1_5 Pin=J5-11
+Added Net: Name=NetESP1_5
+Added Pin To Net: NetName=NetESP1_6 Pin=ESP1-6
+Added Pin To Net: NetName=NetESP1_6 Pin=ESP32-6
+Added Pin To Net: NetName=NetESP1_6 Pin=J5-10
+Added Net: Name=NetESP1_6
+Added Pin To Net: NetName=NetESP1_7 Pin=ESP1-7
+Added Pin To Net: NetName=NetESP1_7 Pin=ESP32-7
+Added Pin To Net: NetName=NetESP1_7 Pin=J5-09
+Added Net: Name=NetESP1_7
+Added Pin To Net: NetName=NetESP1_16 Pin=ESP1-16
+Added Net: Name=NetESP1_16
+Added Class: Name=Sheet2
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Add Class Member: Failed to add class member : Component J? TS-103-T-A-1
+Add Class Member: Failed to add class member : Component Q? LM7805CT
+Add Class Member: Failed to add class member : Component VR? LM1117T-3.3/NOPB
+Add Class Member: Failed to add class member : Component VR? LM1117T-3.3/NOPB
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

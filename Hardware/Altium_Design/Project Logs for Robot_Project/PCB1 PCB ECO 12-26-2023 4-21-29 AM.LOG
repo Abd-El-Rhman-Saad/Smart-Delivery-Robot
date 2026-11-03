@@ -1,0 +1,49 @@
+Added Component: Designator=5(PCBComponent_1)
+Added Component: Designator=7(PCBComponent_1)
+Added Member To Class: ClassName=Sheet1 Member=Component *1 MPU-6050
+Added Member To Class: ClassName=Sheet1 Member=Component *2 ESP32DEVKITV1
+Added Member To Class: ClassName=Sheet1 Member=Component 1 From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 2 From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 3 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 4 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 5 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 6 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 7 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component C1 CAP  33UF 50V RADIAL
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Ceramic Capacitor 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 CAP  33UF 50V RADIAL
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Ceramic Capacitor 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Ceramic Capacitor 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component D2 common cathode
+Added Member To Class: ClassName=Sheet1 Member=Component D3 RL207
+Added Member To Class: ClassName=Sheet1 Member=Component D4 LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component D5 LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component D6 LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component D7 LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component J1 DC Power Jack Female Socket
+Added Member To Class: ClassName=Sheet1 Member=Component J2 WST-1205S
+Added Member To Class: ClassName=Sheet1 Member=Component J3 From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component J4 Pin hreader 5 pins
+Added Member To Class: ClassName=Sheet1 Member=Component J5 TS-115-T-A-1
+Added Member To Class: ClassName=Sheet1 Member=Component J6 TS-115-T-A-1
+Added Member To Class: ClassName=Sheet1 Member=Component J7 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component J8 5v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component J9 3.3v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component J10 GND pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component Moving motors1 Pin header female block 8 pin
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 ULN2003AN
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component S1 slide switch (5v,3.3v)
+Added Member To Class: ClassName=Sheet1 Member=Component S2 Slide switch
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 FSM8JRT
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 FSM8JRT
+Added Member To Class: ClassName=Sheet1 Member=Component SW3 FSM8JRT
+Added Member To Class: ClassName=Sheet1 Member=Component U1 AMS1117-5.0
+Added Member To Class: ClassName=Sheet1 Member=Component U2 AMS1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component Ultrasonic Left1 Pin header female block 8 pin
+Added Member To Class: ClassName=Sheet1 Member=Component Ultrasonic Right1 Pin header female block 8 pin
+Added Room: Name=Sheet1

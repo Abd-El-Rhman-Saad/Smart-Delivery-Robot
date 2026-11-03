@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Sheet1 Member=?
+Change Component Designator: OldDesignator=? NewDesignator=16V
+Change Component Designator: OldDesignator=? NewDesignator=16V
+Added Pin To Net: NetName=NetD4_C Pin=D4-C
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component D3 RL207
+Added Room: Name=Sheet1

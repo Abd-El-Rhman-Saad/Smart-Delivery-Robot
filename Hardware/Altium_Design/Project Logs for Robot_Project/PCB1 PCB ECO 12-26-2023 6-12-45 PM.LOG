@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetESP32_28 Pin=Moving Motors1-1
+Removed Pin From Net: NetName=NetESP32_27 Pin=Moving Motors1-3
+Added Pin To Net: NetName=NetESP32_27 Pin=Moving Motors1-1
+Added Pin To Net: NetName=NetESP32_28 Pin=Moving Motors1-3
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component D3 RL207

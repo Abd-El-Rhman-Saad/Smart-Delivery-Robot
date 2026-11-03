@@ -1,0 +1,155 @@
+Removed Pin From Net: NetName=3.3V Pin=MPU-6050-01
+Removed Pin From Net: NetName=GND Pin=MPU-6050-02
+Removed Member From Class: ClassName=Sheet1 Member=16V
+Removed Member From Class: ClassName=Sheet1 Member=MPU-6050
+Change Component Designator: OldDesignator=1 NewDesignator=3
+Change Component Designator: OldDesignator=2 NewDesignator=4
+Change Component Designator: OldDesignator=3.3V NewDesignator=J9
+Change Component Designator: OldDesignator=3.3v LED NewDesignator=D1
+Change Component Designator: OldDesignator=4 NewDesignator=6
+Change Component Designator: OldDesignator=5V NewDesignator=J8
+Change Component Designator: OldDesignator=6 NewDesignator=8
+Change Component Designator: OldDesignator=7 NewDesignator=9
+Change Component Designator: OldDesignator=8 NewDesignator=10
+Change Component Designator: OldDesignator=9 NewDesignator=11
+Change Component Designator: OldDesignator=10 NewDesignator=12
+Change Component Designator: OldDesignator=11 NewDesignator=13
+Change Component Designator: OldDesignator=12V NewDesignator=J3
+Change Component Designator: OldDesignator=12V NewDesignator=J7
+Change Component Designator: OldDesignator=AMS1117-3.3 NewDesignator=U2
+Change Component Designator: OldDesignator=AMS1117-5.0 NewDesignator=U1
+Change Component Designator: OldDesignator=Buzzer NewDesignator=J2
+Change Component Designator: OldDesignator=Ext. Power NewDesignator=J1
+Change Component Designator: OldDesignator=GND NewDesignator=J10
+Change Component Designator: OldDesignator=Moving Motors NewDesignator=Moving motors1
+Change Component Designator: OldDesignator=Power Voltage NewDesignator=S1
+Change Component Designator: OldDesignator=RGB LED NewDesignator=D2
+Change Component Designator: OldDesignator=Stepper Pins NewDesignator=J4
+Change Component Designator: OldDesignator=Stepper voltage  NewDesignator=S2
+Change Component Designator: OldDesignator=U.S. Left NewDesignator=Ultrasonic Left1
+Change Component Designator: OldDesignator=U.S. Right1 NewDesignator=Ultrasonic Right1
+Change Component Designator: OldDesignator=ULN2003AN NewDesignator=Q1
+Added Component: Designator=*1(MPU-6050)
+Added Component: Designator=1(691213510002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691213510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=2(691213510002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691213510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=5(PCBComponent_1)
+Added Component: Designator=7(PCBComponent_1)
+Added Component: Designator=D4(LED 5mm)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Elektronik'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "151054RS03000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED 5mm)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Elektronik'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "151054RS03000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED 5mm)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Elektronik'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "151054RS03000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED 5mm)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Elektronik'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "151054RS03000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESAD700W45L350D185)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623927-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESAD700W45L350D185)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623927-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESAD700W45L350D185)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623927-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESAD700W45L350D185)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623927-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=*1-01
+Added Pin To Net: NetName=GND Pin=*1-02
+Added Pin To Net: NetName=NetC5_2 Pin=D4-A
+Added Pin To Net: NetName=NetC5_2 Pin=D5-A
+Added Pin To Net: NetName=NetC5_2 Pin=D6-A
+Added Pin To Net: NetName=NetC5_2 Pin=D7-A
+Added Pin To Net: NetName=NetJ4_2 Pin=R1-2
+Added Pin To Net: NetName=NetJ4_3 Pin=R2-2
+Added Pin To Net: NetName=NetJ4_4 Pin=R3-2
+Added Pin To Net: NetName=NetJ4_5 Pin=R4-2
+Added Pin To Net: NetName=Net1_1 Pin=1-1
+Added Pin To Net: NetName=Net1_1 Pin=2-2
+Added Net: Name=Net1_1
+Added Pin To Net: NetName=Net1_2 Pin=1-2
+Added Pin To Net: NetName=Net1_2 Pin=2-1
+Added Net: Name=Net1_2
+Added Pin To Net: NetName=Net*1_03 Pin=*1-03
+Added Pin To Net: NetName=Net*1_03 Pin=*2-14
+Added Pin To Net: NetName=Net*1_03 Pin=J5-02
+Added Net: Name=Net*1_03
+Added Pin To Net: NetName=Net*1_04 Pin=*1-04
+Added Pin To Net: NetName=Net*1_04 Pin=*2-11
+Added Pin To Net: NetName=Net*1_04 Pin=J5-05
+Added Net: Name=Net*1_04
+Added Pin To Net: NetName=NetD4_C Pin=D4-C
+Added Pin To Net: NetName=NetD4_C Pin=R1-1
+Added Net: Name=NetD4_C
+Added Pin To Net: NetName=NetD5_C Pin=D5-C
+Added Pin To Net: NetName=NetD5_C Pin=R2-1
+Added Net: Name=NetD5_C
+Added Pin To Net: NetName=NetD6_C Pin=D6-C
+Added Pin To Net: NetName=NetD6_C Pin=R3-1
+Added Net: Name=NetD6_C
+Added Pin To Net: NetName=NetD7_C Pin=D7-C
+Added Pin To Net: NetName=NetD7_C Pin=R4-1
+Added Net: Name=NetD7_C
+Added Member To Class: ClassName=Sheet1 Member=Component *1 MPU-6050
+Added Member To Class: ClassName=Sheet1 Member=Component 3 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 5 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 12 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 13 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component D4 LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component D5 LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component D6 LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component D7 LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component J3 From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Resistor
+Added Room: Name=Sheet1

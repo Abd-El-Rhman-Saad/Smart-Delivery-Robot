@@ -1,0 +1,31 @@
+Remove Pin from Net: Failed to remove Pin
+Change Component Designator: OldDesignator=Ultrasonic Right NewDesignator=Ultrasonic Right1
+Added Component: Designator=?(691213510002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691213510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=?(691213510002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691213510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net16V_1 Pin=16V-1
+Added Pin To Net: NetName=Net16V_1 Pin=?-1
+Added Pin To Net: NetName=Net16V_1 Pin=?-1
+Added Pin To Net: NetName=NetD4_C Pin=D4-C
+Added Pin To Net: NetName=Net16V_2 Pin=16V-2
+Added Pin To Net: NetName=Net16V_2 Pin=16V-2
+Added Pin To Net: NetName=Net16V_2 Pin=?-2
+Added Pin To Net: NetName=Net16V_2 Pin=?-2
+Added Net: Name=Net16V_2
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component ? From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component ? From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component D3 RL207
+Added Room: Name=Sheet1

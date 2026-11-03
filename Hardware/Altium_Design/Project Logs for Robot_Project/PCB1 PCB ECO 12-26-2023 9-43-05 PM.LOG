@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=Moving Motors1-4
+Added Member To Class: ClassName=Sheet1 Member=Component 3 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 5 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 7 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component C1 CAP  33UF 50V RADIAL
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Ceramic Capacitor 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component Push button 2 FSM8JRT
+Added Member To Class: ClassName=Sheet1 Member=Component Push button 3 FSM8JRT
+Added Room: Name=Sheet1

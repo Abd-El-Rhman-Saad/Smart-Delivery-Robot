@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=Buzzer-NEG
+Removed Pin From Net: NetName=NetBuzzer_POS Pin=Buzzer-POS
+Added Component: Designator=Buzzer(Buzzer 5V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Soberton Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WST-1205S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Buzzer-NEG
+Added Pin To Net: NetName=NetBuzzer_POS Pin=Buzzer-POS
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Room: Name=Sheet1

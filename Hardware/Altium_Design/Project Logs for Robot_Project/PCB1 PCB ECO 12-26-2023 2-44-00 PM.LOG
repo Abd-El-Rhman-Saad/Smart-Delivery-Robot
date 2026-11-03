@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=+12 Pin=C5-2
+Removed Pin From Net: NetName=+12 Pin=Stepper Pins-1
+Removed Pin From Net: NetName=NetESP32_26 Pin=ULN2003AN-1
+Removed Pin From Net: NetName=NetESP32_27 Pin=ULN2003AN-2
+Removed Pin From Net: NetName=NetESP32_28 Pin=ULN2003AN-3
+Removed Pin From Net: NetName=NetESP32_3 Pin=ULN2003AN-4
+Removed Pin From Net: NetName=GND Pin=ULN2003AN-8
+Removed Pin From Net: NetName=+12 Pin=ULN2003AN-9
+Removed Pin From Net: NetName=GND Pin=ULN2003AN-10
+Removed Pin From Net: NetName=GND Pin=ULN2003AN-11
+Removed Pin From Net: NetName=GND Pin=ULN2003AN-12
+Removed Member From Class: ClassName=Sheet1 Member=C5
+Removed Member From Class: ClassName=Sheet1 Member=ULN2003AN
+Added Component: Designator=Stepper Pins(TE_2355181-4)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2355181-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetESP32_26 Pin=Stepper Pins-1
+Added Pin To Net: NetName=NetESP32_27 Pin=Stepper Pins-2
+Added Pin To Net: NetName=NetESP32_28 Pin=Stepper Pins-3
+Added Pin To Net: NetName=NetESP32_3 Pin=Stepper Pins-4
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component D3 RL207
+Added Room: Name=Sheet1

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=D4-A
+Removed Pin From Net: NetName=NetC5_2 Pin=D5-A
+Removed Pin From Net: NetName=NetC5_2 Pin=D6-A
+Removed Pin From Net: NetName=NetC5_2 Pin=D7-A
+Removed Pin From Net: NetName=NetJ4_2 Pin=R1-2
+Removed Pin From Net: NetName=NetJ4_3 Pin=R2-2
+Removed Pin From Net: NetName=NetJ4_4 Pin=R3-2
+Removed Pin From Net: NetName=NetJ4_5 Pin=R4-2
+Removed Member From Class: ClassName=Sheet1 Member=D4
+Removed Member From Class: ClassName=Sheet1 Member=D5
+Removed Member From Class: ClassName=Sheet1 Member=D6
+Removed Member From Class: ClassName=Sheet1 Member=D7
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Added Component: Designator=3(PCBComponent_1)
+Added Component: Designator=5(PCBComponent_1)
+Added Member To Class: ClassName=Sheet1 Member=Component 3 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 4 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 5 Mounting Hole
+Added Room: Name=Sheet1

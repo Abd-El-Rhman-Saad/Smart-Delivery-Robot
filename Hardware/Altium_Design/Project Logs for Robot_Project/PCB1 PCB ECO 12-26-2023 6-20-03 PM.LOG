@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+12 Pin=C-1
+Removed Pin From Net: NetName=GND Pin=C-2
+Removed Pin From Net: NetName=+12 Pin=D1-A
+Removed Pin From Net: NetName=+12 Pin=D2-A
+Removed Pin From Net: NetName=+12 Pin=D3-A
+Removed Pin From Net: NetName=+12 Pin=D4-A
+Removed Pin From Net: NetName=+12 Pin=Stepoer Pins-1
+Removed Pin From Net: NetName=NetESP32_25 Pin=ULN2003AN-1
+Removed Pin From Net: NetName=NetESP32_24 Pin=ULN2003AN-2
+Removed Pin From Net: NetName=NetESP32_7 Pin=ULN2003AN-3
+Removed Pin From Net: NetName=NetESP32_6 Pin=ULN2003AN-4
+Removed Pin From Net: NetName=GND Pin=ULN2003AN-8
+Removed Pin From Net: NetName=+12 Pin=ULN2003AN-9
+Removed Pin From Net: NetName=GND Pin=ULN2003AN-10
+Removed Pin From Net: NetName=GND Pin=ULN2003AN-11
+Removed Pin From Net: NetName=GND Pin=ULN2003AN-12
+Removed Member From Class: ClassName=Sheet1 Member=C
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Removed Member From Class: ClassName=Sheet1 Member=D4
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=Stepoer Pins
+Removed Member From Class: ClassName=Sheet1 Member=ULN2003AN
+Added Component: Designator=J?(Pin hreader 4 pins)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2355181-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetESP32_25 Pin=J?-1
+Added Pin To Net: NetName=NetESP32_24 Pin=J?-2
+Added Pin To Net: NetName=NetESP32_7 Pin=J?-3
+Added Pin To Net: NetName=NetESP32_6 Pin=J?-4
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component J? Pin hreader 4 pins

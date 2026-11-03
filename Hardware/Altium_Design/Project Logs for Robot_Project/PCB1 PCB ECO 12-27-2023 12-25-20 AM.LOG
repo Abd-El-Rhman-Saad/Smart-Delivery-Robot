@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=R-C-B-S NewDesignator=RGB LED
+Added Pin To Net: NetName=GND Pin=Moving motors1-4
+Added Member To Class: ClassName=Sheet1 Member=Component 3.3V Power LED LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component 3.3V 3.3v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 4 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 5V 5v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 7 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 12V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component AMS1117-3.3 ESP AMS1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component AMS1117-3.3 P AMS1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component AMS1117-5.0
+Added Member To Class: ClassName=Sheet1 Member=Component Buzzer
+Added Member To Class: ClassName=Sheet1 Member=Component C1 CAP  33UF 50V RADIAL
+Added Member To Class: ClassName=Sheet1 Member=Component C3 CAP  33UF 50V RADIAL
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Ceramic Capacitor 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component D3 RL207
+Added Member To Class: ClassName=Sheet1 Member=Component ESP 3.3V LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component ESP32 ESP32DEVKITV1
+Added Member To Class: ClassName=Sheet1 Member=Component Ext. Power DC Power Jack Female Socket
+Added Member To Class: ClassName=Sheet1 Member=Component GND GND pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component J5 TS-115-T-A-1
+Added Member To Class: ClassName=Sheet1 Member=Component J6 TS-115-T-A-1
+Added Member To Class: ClassName=Sheet1 Member=Component MPU-6050
+Added Member To Class: ClassName=Sheet1 Member=Component Push button 1 FSM8JRT
+Added Member To Class: ClassName=Sheet1 Member=Component RGB LED common cathode
+Added Member To Class: ClassName=Sheet1 Member=Component Slide Switch (5v,3.3v)
+Added Member To Class: ClassName=Sheet1 Member=Component Stepper Pins Pin hreader 4 pins
+Added Member To Class: ClassName=Sheet1 Member=Component Ultrasonic Left Pin header female block 8 pin
+Added Member To Class: ClassName=Sheet1 Member=Component Ultrasonic Right Pin header female block 8 pin

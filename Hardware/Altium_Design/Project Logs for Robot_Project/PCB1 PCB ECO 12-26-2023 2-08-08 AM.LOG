@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetJ16V_1 Pin=J16v-2
+Added Pin To Net: NetName=NetJ16V_1 Pin=J16V-1
+Added Net: Name=NetJ16V_1
+Add Net: Net with name "NetJ16v_1" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component J16V Terminal Block
+Added Room: Name=Sheet1

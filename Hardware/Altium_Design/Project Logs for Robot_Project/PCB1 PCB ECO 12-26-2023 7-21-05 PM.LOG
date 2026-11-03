@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+5 Pin=Ultrasonic Left-1
+Removed Pin From Net: NetName=NetESP32_21 Pin=Ultrasonic Left-2
+Removed Pin From Net: NetName=NetESP32_20 Pin=Ultrasonic Left-3
+Removed Pin From Net: NetName=+5 Pin=Ultrasonic Left-5
+Removed Pin From Net: NetName=NetESP32_22 Pin=Ultrasonic Left-6
+Removed Pin From Net: NetName=GND Pin=Ultrasonic Left-7
+Added Pin To Net: NetName=NetESP32_8 Pin=Ultrasonic Left-1
+Added Pin To Net: NetName=NetESP32_9 Pin=Ultrasonic Left-2
+Added Pin To Net: NetName=+5 Pin=Ultrasonic Left-3
+Added Pin To Net: NetName=NetESP32_10 Pin=Ultrasonic Left-6
+Added Pin To Net: NetName=+5 Pin=Ultrasonic Left-7
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Room: Name=Sheet1

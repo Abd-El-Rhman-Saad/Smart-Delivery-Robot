@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=J16V NewDesignator=J16V1
+Change Component Designator: OldDesignator=J16v NewDesignator=J16V2
+Change Net Name : Old Net Name=NetJ16V_1 New Net Name=NetJ16V1_1
+Added Pin To Net: NetName=NetJ16V1_2 Pin=J16V1-2
+Added Pin To Net: NetName=NetJ16V1_2 Pin=J16V2-1
+Added Net: Name=NetJ16V1_2
+Added Member To Class: ClassName=Sheet1 Member=Component J16V1 Terminal Block

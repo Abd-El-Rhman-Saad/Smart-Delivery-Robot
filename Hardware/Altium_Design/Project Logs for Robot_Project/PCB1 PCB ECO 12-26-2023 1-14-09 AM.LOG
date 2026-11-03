@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3.3V Pin=*1-01
+Removed Pin From Net: NetName=GND Pin=*1-02
+Removed Member From Class: ClassName=Sheet1 Member=*1
+Added Component: Designator=*(MPU-6050)
+Added Pin To Net: NetName=3.3V Pin=*-01
+Added Pin To Net: NetName=GND Pin=*-02
+Added Pin To Net: NetName=Net*2_11 Pin=*-04
+Added Pin To Net: NetName=Net*2_11 Pin=*2-11
+Added Pin To Net: NetName=Net*2_11 Pin=J5-05
+Added Net: Name=Net*2_11
+Added Pin To Net: NetName=Net*2_14 Pin=*-03
+Added Pin To Net: NetName=Net*2_14 Pin=*2-14
+Added Pin To Net: NetName=Net*2_14 Pin=J5-02
+Added Net: Name=Net*2_14
+Added Member To Class: ClassName=Sheet1 Member=Component * MPU-6050
+Added Room: Name=Sheet1

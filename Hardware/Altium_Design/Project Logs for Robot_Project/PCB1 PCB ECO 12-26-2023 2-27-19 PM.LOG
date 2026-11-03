@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=+12 Pin=Stepper Power Switch-1
+Removed Pin From Net: NetName=+5 Pin=Stepper Power Switch-3
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=Stepper Power Switch
+Added Pin To Net: NetName=+12 Pin=C5-2
+Added Pin To Net: NetName=+12 Pin=Stepper Pins-1
+Added Pin To Net: NetName=+12 Pin=ULN2003AN-9
+Added Pin To Net: NetName=NetStepper Pins_2 Pin=Stepper Pins-2
+Added Pin To Net: NetName=NetStepper Pins_2 Pin=ULN2003AN-16
+Added Net: Name=NetStepper Pins_2
+Added Pin To Net: NetName=NetStepper Pins_3 Pin=Stepper Pins-3
+Added Pin To Net: NetName=NetStepper Pins_3 Pin=ULN2003AN-15
+Added Net: Name=NetStepper Pins_3
+Added Pin To Net: NetName=NetStepper Pins_4 Pin=Stepper Pins-4
+Added Pin To Net: NetName=NetStepper Pins_4 Pin=ULN2003AN-14
+Added Net: Name=NetStepper Pins_4
+Added Pin To Net: NetName=NetStepper Pins_5 Pin=Stepper Pins-5
+Added Pin To Net: NetName=NetStepper Pins_5 Pin=ULN2003AN-13
+Added Net: Name=NetStepper Pins_5
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Room: Name=Sheet1

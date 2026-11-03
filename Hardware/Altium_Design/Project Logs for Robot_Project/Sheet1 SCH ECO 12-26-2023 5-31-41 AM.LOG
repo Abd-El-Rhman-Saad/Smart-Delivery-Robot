@@ -1,0 +1,32 @@
+Change Component Designator: Old Designator=3 New Designator=2
+Change Component Designator: Old Designator=3.3V New Designator=14
+Change Component Designator: Old Designator=3.3V Power LED New Designator=1
+Change Component Designator: Old Designator=4 New Designator=3
+Change Component Designator: Old Designator=5 New Designator=4
+Change Component Designator: Old Designator=5V New Designator=13
+Change Component Designator: Old Designator=6 New Designator=5
+Change Component Designator: Old Designator=7 New Designator=6
+Change Component Designator: Old Designator=12V New Designator=7
+Change Component Designator: Old Designator=12V New Designator=12
+Change Component Designator: Old Designator=16V New Designator=8
+Change Component Designator: Old Designator=16V New Designator=9
+Change Component Designator: Old Designator=? New Designator=10
+Change Component Designator: Old Designator=? New Designator=11
+Change Component Designator: Old Designator=AMS1117-3.3 New Designator=AMS2
+Change Component Designator: Old Designator=AMS1117-5.0 New Designator=AMS1
+Change Component Designator: Old Designator=Buzzer New Designator=Buzzer1
+Change Component Designator: Old Designator=D1 New Designator=D2
+Change Component Designator: Old Designator=D2 New Designator=D3
+Change Component Designator: Old Designator=D3 New Designator=D1
+Change Component Designator: Old Designator=D3 New Designator=D4
+Change Component Designator: Old Designator=D4 New Designator=D5
+Change Component Designator: Old Designator=ESP32 New Designator=ESP1
+Change Component Designator: Old Designator=Ext. Power New Designator=Ext. Power1
+Change Component Designator: Old Designator=GND New Designator=GND1
+Change Component Designator: Old Designator=J5 New Designator=J1
+Change Component Designator: Old Designator=J6 New Designator=J2
+Change Component Designator: Old Designator=MPU-6050 New Designator=MPU-1
+Change Component Designator: Old Designator=RGB LED New Designator=RGB LED1
+Change Component Designator: Old Designator=Stepper Pins New Designator=Stepper Pins1
+Change Component Designator: Old Designator=Stepper Power Switch New Designator=Stepper Power Switch1
+Change Component Designator: Old Designator=ULN2003AN New Designator=ULN1

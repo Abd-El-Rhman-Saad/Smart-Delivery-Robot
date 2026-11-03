@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetESP32_7 Pin=Stepper Pins-3
+Removed Pin From Net: NetName=NetESP32_6 Pin=Stepper Pins-4
+Added Pin To Net: NetName=NetESP32_6 Pin=Stepper Pins-3
+Added Pin To Net: NetName=NetESP32_7 Pin=Stepper Pins-4
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck

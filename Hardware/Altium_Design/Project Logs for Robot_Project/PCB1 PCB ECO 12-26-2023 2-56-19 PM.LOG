@@ -1,0 +1,11 @@
+Add Component: Footprint Not Found TE_2355181-4
+Add Pin To Net: Unknown Pin: Pin Stepper Pins-1
+Add Pin To Net: Unknown Pin: Pin Stepper Pins-2
+Add Pin To Net: Unknown Pin: Pin Stepper Pins-3
+Add Pin To Net: Unknown Pin: Pin Stepper Pins-4
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Add Class Member: Failed to add class member : Component Stepper Pins 2355181-4
+Added Room: Name=Sheet1

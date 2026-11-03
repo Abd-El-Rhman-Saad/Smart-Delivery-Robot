@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetESP32_18 Pin=Push button 2-1
+Removed Pin From Net: NetName=GND Pin=Push button 2-2
+Removed Pin From Net: NetName=NetESP32_19 Pin=Push button 3-1
+Removed Pin From Net: NetName=GND Pin=Push button 3-2
+Removed Member From Class: ClassName=Sheet1 Member=Push button 2
+Removed Member From Class: ClassName=Sheet1 Member=Push button 3
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Room: Name=Sheet1

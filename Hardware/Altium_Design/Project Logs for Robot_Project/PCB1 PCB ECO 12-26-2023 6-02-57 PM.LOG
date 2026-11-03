@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetESP32_5 Pin=Moving Motors1-6
+Removed Pin From Net: NetName=NetESP32_3 Pin=Moving Motors1-8
+Removed Pin From Net: NetName=NetESP32_30 Pin=S1-1
+Removed Pin From Net: NetName=Net3.3V Power LED_A Pin=S1-3
+Change Component Designator: OldDesignator=S1 NewDesignator=Slide Switch (5v,3.3v)
+Added Pin To Net: NetName=NetESP32_3 Pin=Moving Motors1-6
+Added Pin To Net: NetName=NetESP32_5 Pin=Moving Motors1-8
+Added Pin To Net: NetName=Net3.3V Power LED_A Pin=Slide Switch (5v,3.3v)-1
+Added Pin To Net: NetName=NetESP32_30 Pin=Slide Switch (5v,3.3v)-3
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component D3 RL207

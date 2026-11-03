@@ -1,0 +1,119 @@
+Added Component: Designator=*(ESP32DEVKITV1)
+Added Component: Designator=D?(LED RGB 5mm)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Kingbright'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP154A4SUREQBFZGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(SAMTEC_TS-115-T-A-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS-115-T-A-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CUI_PJ-002A
+Added Component: Designator=J?(SAMTEC_TS-115-T-A-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS-115-T-A-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SW_EG1206
+Added Component: Designator=U?(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Advanced Monolithic Systems'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Advanced Monolithic Systems'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_13 Pin=*-13
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_16 Pin=*-16
+Added Pin To Net: NetName=Net*_17 Pin=*-17
+Added Pin To Net: NetName=Net*_18 Pin=*-18
+Added Pin To Net: NetName=Net*_19 Pin=*-19
+Added Pin To Net: NetName=Net*_20 Pin=*-20
+Added Pin To Net: NetName=Net*_21 Pin=*-21
+Added Pin To Net: NetName=Net*_22 Pin=*-22
+Added Pin To Net: NetName=Net*_23 Pin=*-23
+Added Pin To Net: NetName=Net*_24 Pin=*-24
+Added Pin To Net: NetName=Net*_25 Pin=*-25
+Added Pin To Net: NetName=Net*_26 Pin=*-26
+Added Pin To Net: NetName=Net*_27 Pin=*-27
+Added Pin To Net: NetName=Net*_28 Pin=*-28
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=Net*_30 Pin=*-30
+Added Pin To Net: NetName=Net*_27 Pin=D?-1
+Added Pin To Net: NetName=Net*_28 Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=Net*_26 Pin=D?-4
+Added Pin To Net: NetName=Net*_15 Pin=J?-01
+Added Pin To Net: NetName=Net*_30 Pin=J?-01
+Added Pin To Net: NetName=GND Pin=J?-02
+Added Pin To Net: NetName=Net*_14 Pin=J?-02
+Added Pin To Net: NetName=Net*_13 Pin=J?-03
+Added Pin To Net: NetName=Net*_28 Pin=J?-03
+Added Pin To Net: NetName=Net*_12 Pin=J?-04
+Added Pin To Net: NetName=Net*_27 Pin=J?-04
+Added Pin To Net: NetName=Net*_11 Pin=J?-05
+Added Pin To Net: NetName=Net*_26 Pin=J?-05
+Added Pin To Net: NetName=Net*_10 Pin=J?-06
+Added Pin To Net: NetName=Net*_25 Pin=J?-06
+Added Pin To Net: NetName=Net*_9 Pin=J?-07
+Added Pin To Net: NetName=Net*_24 Pin=J?-07
+Added Pin To Net: NetName=Net*_8 Pin=J?-08
+Added Pin To Net: NetName=Net*_23 Pin=J?-08
+Added Pin To Net: NetName=Net*_7 Pin=J?-09
+Added Pin To Net: NetName=Net*_22 Pin=J?-09
+Added Pin To Net: NetName=Net*_6 Pin=J?-10
+Added Pin To Net: NetName=Net*_21 Pin=J?-10
+Added Pin To Net: NetName=Net*_5 Pin=J?-11
+Added Pin To Net: NetName=Net*_20 Pin=J?-11
+Added Pin To Net: NetName=Net*_4 Pin=J?-12
+Added Pin To Net: NetName=Net*_19 Pin=J?-12
+Added Pin To Net: NetName=Net*_3 Pin=J?-13
+Added Pin To Net: NetName=Net*_18 Pin=J?-13
+Added Pin To Net: NetName=GND Pin=J?-14
+Added Pin To Net: NetName=Net*_17 Pin=J?-14
+Added Pin To Net: NetName=Net*_1 Pin=J?-15
+Added Pin To Net: NetName=Net*_16 Pin=J?-15
+Add Pin To Net: Unknown Pin: Pin S?-1
+Add Pin To Net: Unknown Pin: Pin S?-2
+Add Pin To Net: Unknown Pin: Pin S?-3
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=Net*_1 Pin=U?-2
+Added Pin To Net: NetName=NetS?_2 Pin=U?-2
+Added Pin To Net: NetName=NetS?_3 Pin=U?-3
+Added Member To Class: ClassName=Sheet1 Member=Component * ESP32DEVKITV1
+Added Member To Class: ClassName=Sheet1 Member=Component D? common cathode
+Added Member To Class: ClassName=Sheet1 Member=Component J? TS-115-T-A-1
+Added Member To Class: ClassName=Sheet1 Member=Component J? PJ-002A
+Added Member To Class: ClassName=Sheet1 Member=Component J? TS-115-T-A-1
+Add Class Member: Failed to add class member : Component S? EG1206
+Added Member To Class: ClassName=Sheet1 Member=Component U? AMS1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component U? AMS1117-5.0
+Added Room: Name=Sheet1

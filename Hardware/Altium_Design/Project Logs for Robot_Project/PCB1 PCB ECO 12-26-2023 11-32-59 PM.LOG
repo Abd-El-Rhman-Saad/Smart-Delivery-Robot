@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=3.3V Pin=ESP32-1
+Removed Pin From Net: NetName=3.3V Pin=J5-15
+Change Component Designator: OldDesignator=AMS1117-3.3 NewDesignator=AMS1117-3.3 P
+Change Component Designator: OldDesignator=Moving Motors NewDesignator=Moving motors1
+Added Component: Designator=1(LED 5mm)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Elektronik'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "151054RS03000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=AMS1117-3.3 ESP(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Advanced Monolithic Systems'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(C320C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C320C104M5U5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C320C104M5U5TA/KEMET/view-part/228184/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(C320C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C320C104M5U5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C320C104M5U5TA/KEMET/view-part/228184/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=1-C
+Added Pin To Net: NetName=+5 Pin=3.3V Power LED-A
+Added Pin To Net: NetName=GND Pin=AMS1117-3.3 ESP-1
+Added Pin To Net: NetName=+5 Pin=AMS1117-3.3 P-3
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=Net1_A Pin=1-A
+Added Pin To Net: NetName=Net1_A Pin=AMS1117-3.3 ESP-3
+Added Pin To Net: NetName=Net1_A Pin=C6-2
+Added Pin To Net: NetName=Net1_A Pin=Slide Switch (5v,3.3v)-3
+Added Net: Name=Net1_A
+Added Pin To Net: NetName=NetAMS1117-3.3 ESP_2 Pin=AMS1117-3.3 ESP-2
+Added Pin To Net: NetName=NetAMS1117-3.3 ESP_2 Pin=C5-2
+Added Pin To Net: NetName=NetAMS1117-3.3 ESP_2 Pin=ESP32-1
+Added Pin To Net: NetName=NetAMS1117-3.3 ESP_2 Pin=J5-15
+Added Net: Name=NetAMS1117-3.3 ESP_2
+Added Member To Class: ClassName=Sheet1 Member=Component 1 LED 5mm
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component AMS1117-3.3 ESP AMS1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Ceramic Capacitor 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C6 Ceramic Capacitor 100nF
+Added Room: Name=Sheet1

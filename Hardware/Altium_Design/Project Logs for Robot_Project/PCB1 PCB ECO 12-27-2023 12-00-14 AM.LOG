@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=1 NewDesignator=Power ESP 3.3V
+Change Net Name : Old Net Name=Net1_A New Net Name=NetAMS1117-3.3 ESP_3
+Added Member To Class: ClassName=Sheet1 Member=Component 12V 12v pin headers block
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component 16V From Buck
+Added Member To Class: ClassName=Sheet1 Member=Component Slide Switch (5v,3.3v)

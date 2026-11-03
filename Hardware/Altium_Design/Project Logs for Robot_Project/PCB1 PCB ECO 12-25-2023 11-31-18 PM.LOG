@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=3 NewDesignator=4
+Change Component Designator: OldDesignator=4 NewDesignator=7
+Change Component Designator: OldDesignator=5 NewDesignator=8
+Added Component: Designator=3(PCBComponent_1)
+Added Component: Designator=5(PCBComponent_1)
+Added Component: Designator=6(PCBComponent_1)
+Added Component: Designator=9(PCBComponent_1)
+Added Component: Designator=10(PCBComponent_1)
+Added Component: Designator=11(PCBComponent_1)
+Added Member To Class: ClassName=Sheet1 Member=Component 6 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 7 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 8 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 9 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 10 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component 11 Mounting Hole
+Added Member To Class: ClassName=Sheet1 Member=Component Ultrasonic Left1 Pin header female block 8 pin
+Added Room: Name=Sheet1
